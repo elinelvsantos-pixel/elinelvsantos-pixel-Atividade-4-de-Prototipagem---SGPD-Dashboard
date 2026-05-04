@@ -2,6 +2,8 @@
 
 Sistema web moderno para gestão e monitoramento de processos corporativos, construído com React, TypeScript e Tailwind CSS.
 
+Link Figma: https://www.figma.com/make/0PpkqBxnmtuwiE93qFxXCn/Energy-Management-System-Dashboard?fullscreen=1&t=9yoBYnKLQnymhTLq-1
+
 ## 🎯 Funcionalidades
 
 - **Dashboard Interativo**: Visualização em tempo real de processos com cards de KPI coloridos
